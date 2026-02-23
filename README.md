@@ -7,8 +7,8 @@ Project mission: Explore how university majors impact earnings using public US g
 - Goal: Predict salaries by major + visualize trends/gender gaps
 
 Files:
-- graduates_analysis.py → ML prediction + SQL queries
-- grad_intel.csv → dataset
-- *.pbix → Power BI report (upload later)
+- graduates_analysis.py > ML prediction + SQL queries
+- grad_intel.csv > dataset
+- *.pbix > Power BI report (will be uploaded later)
 
 Results: Engineering majors earn significantly more than humanities.
